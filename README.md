@@ -21,3 +21,8 @@ You need to add a print() method to the object, which will output the contact da
 You are working on a Store Manager program, which stores the prices in an array.
 You need to add functionality to increase the prices by the given amount.
 The increase variable is taken from user input. You need to increase all the prices in the given array by that amount and output to the console the resulting array.
+
+# Sixth 
+The array you are given represents the menu of breakfast options available at the hotel.
+The Chef decided to replace one of the options with "Fluffy Pancakes".
+Write a program to take the index as input, replace the element with that index with "Fluffy Pancakes", and output the new menu to the console as an array.
