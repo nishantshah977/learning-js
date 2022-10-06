@@ -26,3 +26,9 @@ The increase variable is taken from user input. You need to increase all the pri
 The array you are given represents the menu of breakfast options available at the hotel.
 The Chef decided to replace one of the options with "Fluffy Pancakes".
 Write a program to take the index as input, replace the element with that index with "Fluffy Pancakes", and output the new menu to the console as an array.
+
+# Seventh 
+The player receives points after passing each level of a game.
+The program given takes the number of passed levels as input, followed by the points gained for each level, and creates the corresponding array of points.
+Complete the program to calculate and output to the console the sum of all gained points.
+**Thanks to Prashant Sir for help**
