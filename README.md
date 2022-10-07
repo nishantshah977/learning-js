@@ -32,3 +32,8 @@ The player receives points after passing each level of a game.
 The program given takes the number of passed levels as input, followed by the points gained for each level, and creates the corresponding array of points.
 Complete the program to calculate and output to the console the sum of all gained points.
 **Thanks to Prashant Sir for help**
+
+# Eighth
+You need to make country cards for a school project.
+The given program takes the country and its capital name as input.
+Complete the function to return a string in the format you are given in the sample output
